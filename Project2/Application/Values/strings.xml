@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KatanemimenaApp</string>
+    <string name="tv_category">Category:</string>
+    <string name="tv_distance">Distance</string>
+    <string name="bt_search">Search</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="topk">Number of POIs</string>
+    <string name="points">How many points</string>
+    <string name="category">POI category</string>
+    <string name="distance">Distance in km.(Default :5km)</string>
+    <string name="tv_user">User</string>
+    <string name="et_user">User ID</string>
+    <string name="location_perm_title">Permission for location required</string>
+    <string name="location_perm_text">This application requires you to enable your Location in order to progress</string>
+    <string name="ok">OK</string>
+    <string name="tv_location">Location</string>
+    <string name="location_prompt">Choose a location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string-array name="location_array">
+        <item>Current Location</item>
+        <item>Athens</item>
+        <item>New York</item>
+        <item>Rome</item>
+        <item>Add New</item>
+    </string-array>
+</resources>
